@@ -1,1 +1,4 @@
+pip install google-cloud-firestore
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/credentials-file.json"
+python main.py
 
